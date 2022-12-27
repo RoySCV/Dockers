@@ -2,7 +2,7 @@
 cls
 
 
-set DockerBuildPath=C:\Users\roys\OneDrive - CodeValue Ltd\Documents\Dockers\Kali-Linux
+set DockerBuildPath=<DockerFilePath>
 set ImageName=mykali
 set ContainerName=mykali
 
