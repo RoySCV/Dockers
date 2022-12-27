@@ -2,7 +2,7 @@
 cls
 
 
-set DockerBuildPath=C:\Users\roys\OneDrive - CodeValue Ltd\Documents\Dockers\ubuntu
+set DockerBuildPath=<DockerFilePath>
 set ImageName=ubuntu
 set ContainerName=ubuntu
 
